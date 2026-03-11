@@ -1,6 +1,6 @@
 # Performance Analysis & Vue Architecture Proposal - Travel Booking Platform (Case Study)
 
-# Frontend Performance Analysis & Vue Architecture Proposal
+## Frontend Performance Analysis & Vue Architecture Proposal
 
 This repository contains a technical case study analyzing the performance of a large travel booking website.
 
